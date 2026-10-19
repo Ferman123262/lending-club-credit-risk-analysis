@@ -1107,12 +1107,6 @@ For lending institutions, effective credit risk management requires a combinatio
 
 By integrating Python analysis, SQL-based business queries, and Power BI reporting, this project illustrates how financial data can be transformed into insights that support more informed lending and portfolio management decisions.
 
-## Author
-
-**Economics Student | Aspiring Data Analyst**
-
-Interested in financial analytics, economic research, credit risk assessment, and data-driven business decision-making.
-
 ### Skills Demonstrated
 
 * Financial Data Analysis
